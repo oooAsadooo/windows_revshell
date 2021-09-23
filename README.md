@@ -32,5 +32,7 @@ A script written in python to recieve a windows shell !!!
 
 # Requirements (for server side script)
 1> Python3
+
+
 2> Sockets
   (Installing socktes by typing this command in cmd prompt "pip3 install sockets"  or just "pip install sockets".
