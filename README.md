@@ -36,3 +36,9 @@ A script written in python to recieve a windows shell !!!
 
 2> Sockets
   (Installing socktes by typing this command in cmd prompt "pip3 install sockets"  or just "pip install sockets".
+  
+  
+  
+  
+  
+  IF you are stuck anywere or you are facing any problem or if you want to ask any doubt then feel free to contact me on Discord ~ Asad#2809
