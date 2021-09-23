@@ -1,5 +1,9 @@
 import socket
 
+print("Created by ~ Asad")
+
+print("For any kind of help, feel free to Dm me on Discord ~ Asad#2809 ")
+
 server_host = "0.0.0.0"
 server_port = int(input("Enter the Port to listen on : "))
 size = 1024 * 128
